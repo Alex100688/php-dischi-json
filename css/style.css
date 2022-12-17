@@ -1,5 +1,13 @@
-.container{
+
+.header-start{
+    background-color: #06131f;
+    color: white;
+   
+}
+.container-main{
     background-color: #1d2d3c;
+  
+
 }
 .box-album{
     min-width: 15.625rem;
