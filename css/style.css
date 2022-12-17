@@ -1,0 +1,13 @@
+.container{
+    background-color: #1d2d3c;
+}
+.box-album{
+    min-width: 15.625rem;
+    min-height: 18.75rem;
+    background-color: #112030;
+}
+img{
+    width: 12.5rem;
+    height: 12.5rem;
+    object-fit: cover;
+}
